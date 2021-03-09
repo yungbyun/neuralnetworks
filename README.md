@@ -1,2 +1,2 @@
 # Neural Network Theory
-[to be updated] 
+* [to be updated] 
