@@ -1,2 +1,5 @@
 # Neural Network Theory
-* [to be updated] 
+
+```
+import tensorflow as tf
+```
