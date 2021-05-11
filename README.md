@@ -1,4 +1,4 @@
-# Neural Network Theory
+# How to run the sample codes in Kaggle.com
 
 ```
 import tensorflow as tf
