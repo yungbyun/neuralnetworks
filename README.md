@@ -2,6 +2,7 @@
 
 * Sample codes: https://github.com/yungbyun/myml
 
+* Code replacement
 
 ```
 import tensorflow as tf
