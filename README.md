@@ -8,7 +8,7 @@
 import tensorflow as tf
 ```
 
-> Replace the below code with this.
+> Replace the above code with the below.
 
 ```
 # 기존 코드의 맨 위에 있는 import tensorflow as tf 코드를 아래 두 줄 코드로 바꾸세요.
