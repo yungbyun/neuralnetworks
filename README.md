@@ -1,5 +1,8 @@
 # How to run the sample codes in Kaggle.com
 
+* Sample codes: https://github.com/yungbyun/myml
+
+
 ```
 import tensorflow as tf
 ```
