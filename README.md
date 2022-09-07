@@ -1,4 +1,4 @@
-# Sample codes
+# Sample Codes
 
 * https://github.com/yungbyun/myml
 * Code replacement
