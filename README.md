@@ -11,5 +11,5 @@ import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 ```
 # Invited Talks
-> * Challenge and Opportunity for Autonomous Vehicles beyondLevel 5.0 (pdf), Prof. Shiho Kim, Yonsei University <br/>
-> * 
+> * Challenge and Opportunity for Autonomous Vehicles beyondLevel 5.0 ([pdf](./talk/autonomous_vehicles_beyond_level_5.pdf), Prof. Shiho Kim, Yonsei University <br/>
+>
