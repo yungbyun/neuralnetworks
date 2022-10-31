@@ -12,4 +12,4 @@ tf.disable_v2_behavior()
 ```
 # Invited Talks
 > * Challenge and Opportunity for Autonomous Vehicles beyondLevel 5.0 (pdf), Prof. Shiho Kim, Yonsei University <br/>
-> * 
+> * [a relative link](other_file.md)
