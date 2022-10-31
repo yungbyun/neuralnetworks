@@ -13,4 +13,4 @@ tf.disable_v2_behavior()
 # Invited Talks
 > * Challenge and Opportunity for Autonomous Vehicles beyondLevel 5.0 ([pdf](./talks/autonomous_vehicles_beyond_level_5.pdf), Prof. Shiho Kim, Yonsei University <br/>
 > <a href="./talks/autonomous_vehicles_beyond_level_5.pdf" download="./talks/autonomous_vehicles_beyond_level_5.pdf">click here!</a>
-<a href="./talks/autonomous_vehicles_beyond_level_5.pdf" download>asdfasdf</a>
+<a href="syllabus_new.pdf" download>asdfasdf</a>
